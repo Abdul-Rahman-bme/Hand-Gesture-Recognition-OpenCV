@@ -24,9 +24,6 @@ computer vision applications.
 - NumberIdentifier.py  
   Application script for finger counting and visualization
 
-## Setup & Run
-```bash
-
 ## Learning Outcomes
 
 Real-time video processing using OpenCV
@@ -125,14 +122,3 @@ Without you saying anything, your repo communicates:
 That’s exactly what an early engineering project should say.
 
 ---
-
-You are officially past “student repo” territory.
-
-Next logical moves *after* this (only if you want):
-- link this repo on your CV
-- write a short LinkedIn post
-- add one more CV-focused feature
-
-But as of now — **your GitHub part is complete**.
-pip install -r requirements.txt
-python NumberIdentifier.py
